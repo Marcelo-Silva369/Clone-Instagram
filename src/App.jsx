@@ -42,7 +42,6 @@ function App() {
             </button>
 
             <div className="flex items-center gap-1">
-
               <IoLogoFacebook className="text-blue-600 text-2xl" />
               <a
                 className="text-blue-800 hover:text-blue-700 font-bold"
@@ -150,7 +149,11 @@ function App() {
               </a>
             </li>
             <li>
-              <a className="hover:text-blue-600 text-slate-500" href="">
+              <a
+                className="hover:text-blue-600 text-slate-500"
+                href="https://www.instagram.com/marcelotubarao_369/profilecard/?igsh=MW9jcDZyeWQxdnZxbQ=="
+                target="_blank"
+              >
                 © 2025 Instagram Clone from Tubarão Dev
               </a>
             </li>
